@@ -9,6 +9,8 @@
         width:50%;
         text-align:center;
         color: red;
+        float:left;
+        font-size:24px;
         text-decoration:none;
       }
       h1{
